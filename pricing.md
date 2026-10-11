@@ -1,8 +1,8 @@
-# Pricing Plan — Nika Asten Digital Coloring Products
+# Pricing Plan — Asten Family Marketing Services — Digital Coloring Products
 
 | Product | Format | Price (EUR) | Billing |
 |---|---|---|---|
-| Coloring book "Little Alchemy of Dreams" | 36-page PDF, landscape A4, EN or RU edition | €8.80 | One-time purchase |
+| Coloring book "Little Alchemy of Dreams" | 36-page PDF, landscape A4 | €8.80 | One-time purchase |
 | Guide "How to make your own coloring book" | PDF guide | €3.69 | One-time purchase |
 
 - **One-time payment.** There is no subscription, no recurring billing and no account required.
