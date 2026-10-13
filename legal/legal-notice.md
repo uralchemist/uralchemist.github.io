@@ -1,6 +1,7 @@
 # Legal Notice
 
 **Business:** Asten Family Marketing Services
+**Trade license number:** 75824
 **Store name:** Magic Store (on Lemon Squeezy)
 **Location:** Dubai, United Arab Emirates
 **Email:** youareanalchemist@gmail.com
